@@ -1,0 +1,48 @@
+[
+ { 
+     "nombre1":"Horacio",
+     "nombre2":"Esteban",
+     "apellido":"Zacarias",
+     "dni":"18945444",
+     "sexo":"M",
+     "fechaNacimiento":"19670512",
+     "Pais":"argentina",
+     "fechaAlta":"20181101",
+     "clave":"cabeza"
+ },
+ {
+    "nombre1":"Ana",
+    "nombre2":"Claudia",
+    "apellido":"Gonzales",
+    "dni":"20369951",
+    "sexo":"F",
+    "fechaNacimiento":"20000725",
+    "Pais":"argentina",
+    "fechaAlta":"20181013",
+    "clave":"veronica"   
+ },
+ {
+    "nombre1":"Nuncio",
+    "nombre2":"Ivo",
+    "apellido":"Benintende",
+    "dni":"16211333",
+    "sexo":"M",
+    "fechaNacimiento":"19650412",
+    "Pais":"argentina",
+    "fechaAlta":"20170202",
+    "clave":"ivana"
+ },
+ {
+    "nombre1":"Leticia",
+    "nombre2":"Andrea",
+    "apellido":"Nadal",
+    "dni":"23555147",
+    "sexo":"F",
+    "fechaNacimiento":"19981231",
+    "Pais":"venezuela",
+    "fechaAlta":"20160718",
+    "clave":"leti1234"
+ }
+
+
+]
